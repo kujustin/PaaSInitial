@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/linearLayout">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:text="PaaS Mobile Bridge"
+            android:id="@+id/titleTextView"
+            android:layout_marginTop="58dp"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:textColor="@color/colorBlack"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:id="@+id/voltageLinearLayout">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Voltage: "
+                android:id="@+id/voltageTitleTextView"
+                android:layout_marginTop="58dp"
+                android:textStyle="bold"
+                android:textSize="10dp"
+                android:textColor="@color/colorBlack"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="null"
+                android:id="@+id/voltageTextView"
+                android:layout_marginTop="58dp"
+                android:textStyle="bold"
+                android:textSize="10dp"
+                android:textColor="@color/colorBlack"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
+            android:id="@+id/temperatureLinearLayout">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Temperature: "
+                android:id="@+id/temperatureTitleTextView"
+                android:layout_marginTop="58dp"
+                android:textStyle="bold"
+                android:textSize="10dp"
+                android:textColor="@color/colorBlack"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="null"
+                android:id="@+id/temperatureTextView"
+                android:layout_marginTop="58dp"
+                android:textStyle="bold"
+                android:textSize="10dp"
+                android:textColor="@color/colorBlack"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+
+            android:id="@+id/currentLinearLayout">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="Current: "
+                android:id="@+id/currentTitleTextView"
+                android:layout_marginTop="58dp"
+                android:textStyle="bold"
+                android:textSize="10dp"
+                android:textColor="@color/colorBlack"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:text="null"
+                android:id="@+id/currentTextView"
+                android:layout_marginTop="58dp"
+                android:textStyle="bold"
+                android:textSize="10dp"
+                android:textColor="@color/colorBlack"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true" />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>
