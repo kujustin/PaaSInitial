@@ -47,22 +47,7 @@ public class MainActivity extends Activity{
         initUI();
 
 
-        Battery battery = FPVDemoApplication.getBatteryInstance();
 
-        if (battery != null) {
-            try {
-                FPVDemoApplication.getProductInstance().getBattery().setStateCallback(new BatteryState.Callback() {
-                    @Override
-                    public void onUpdate(BatteryState djiBatteryState) {
-                        currentValue.setText(Integer.toString(djiBatteryState.getCurrent()));
-                        voltageValue.setText(Integer.toString(djiBatteryState.getVoltage()));
-                        temperatureValue.setText(Float.toString(djiBatteryState.getTemperature()));
-                    }
-                });
-            } catch (Exception ignored) {
-
-            }
-        }
 
     }
 
@@ -110,7 +95,54 @@ public class MainActivity extends Activity{
         if (product == null || !product.isConnected()) {
             showToast(getString(R.string.disconnected));
         }
-    }
+
+        Battery battery = FPVDemoApplication.getBatteryInstance();
+
+        if (battery != null) {
+            try {
+                FPVDemoApplication.getProductInstance().getBattery().setStateCallback(new BatteryState.Callback() {
+                    @Override
+                    public void onUpdate(BatteryState djiBatteryState) {
+                        if (null != djiBatteryState) {
+
+                            int current = djiBatteryState.getCurrent();
+                            int voltage = djiBatteryState.getVoltage();
+                            float temperature = djiBatteryState.getTemperature();
+                            if (temperature != 0.0f) {
+
+                                final String currentString = String.format(" %s", current);
+                                final String voltageString = String.format("%s", voltage);
+                                final String temperatureString = String.format("%s", temperature);
+
+
+                                MainActivity.this.runOnUiThread(new Runnable() {
+
+                                    @Override
+                                    public void run() {
+
+                                        currentValue.setText(currentString);
+                                        voltageValue.setText(voltageString);
+                                        temperatureValue.setText(temperatureString);
+
+
+                                    }
+                                });
+                            }
+                        }
+                        //currentValue.setText(Integer.toString(djiBatteryState.getCurrent()));
+                        //voltageValue.setText(Integer.toString(djiBatteryState.getVoltage()));
+                        //temperatureValue.setText(Float.toString(djiBatteryState.getTemperature()));
+                    }
+                });
+            } catch (Exception ignored) {
+
+            }
+//            Toast.makeText(getApplicationContext(), "battery received", Toast.LENGTH_LONG).show();
+        }
+
+
+
+}
 
     private void uninitPreviewer() {
         Battery battery = FPVDemoApplication.getBatteryInstance();
