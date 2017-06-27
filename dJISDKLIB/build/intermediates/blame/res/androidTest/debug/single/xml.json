@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\jku3\\AndroidStudioProjects\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\accessory_filter.xml",
+        "source": "C:\\Users\\jku3\\AndroidStudioProjects\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\xml\\accessory_filter.xml"
+    },
+    {
         "merged": "C:\\Users\\jku3\\Downloads\\Android-FPVDemo-master\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\xml\\accessory_filter.xml",
         "source": "C:\\Users\\jku3\\Downloads\\Android-FPVDemo-master\\Android-FPVDemo-master\\FPVDemo\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\xml\\accessory_filter.xml"
     }

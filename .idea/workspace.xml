@@ -6,7 +6,192 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="101dde86-bafd-47d8-b9d3-fd90f14214d2" name="Default" comment="" />
+    <list default="true" id="101dde86-bafd-47d8-b9d3-fd90f14214d2" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Java_WebSocket_1_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/converter_gson_2_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/design_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/dji_eventbus.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/dji_gson.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/dji_sdk.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/gson_2_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/multidex_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/multidex_instrumentation_1_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/okhttp_3_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/okio_1_7_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/retrofit_2_0_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/rxandroid_1_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/rxjava_1_1_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/rxjava_computation_expressions_0_21_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/sqlbrite_0_6_2.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/sqlcipher.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_23_3_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_23_3_0.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/classes.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/Java-WebSocket-1.3.0.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/Java-WebSocket-1.3.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/converter-gson-2.0.1.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/converter-gson-2.0.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/dji-sdk.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/dji-sdk.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/dji_eventbus.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/dji_eventbus.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/dji_gson.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/dji_gson.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/okhttp-3.2.0.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/okhttp-3.2.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/okio-1.7.0.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/okio-1.7.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/retrofit-2.0.1.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/retrofit-2.0.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/rxandroid-1.1.0.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/rxandroid-1.1.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/rxjava-1.1.2.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/rxjava-1.1.2.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/rxjava-computation-expressions-0.21.1.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/rxjava-computation-expressions-0.21.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/sqlbrite-0.6.2.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/sqlbrite-0.6.2.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/sqlcipher.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/libs/sqlcipher.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/classes.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/classes.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/Java-WebSocket-1.3.0.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/Java-WebSocket-1.3.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/converter-gson-2.0.1.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/converter-gson-2.0.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/dji-sdk.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/dji-sdk.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/dji_eventbus.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/dji_eventbus.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/dji_gson.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/dji_gson.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/okhttp-3.2.0.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/okhttp-3.2.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/okio-1.7.0.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/okio-1.7.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/retrofit-2.0.1.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/retrofit-2.0.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/rxandroid-1.1.0.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/rxandroid-1.1.0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/rxjava-1.1.2.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/rxjava-1.1.2.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/rxjava-computation-expressions-0.21.1.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/rxjava-computation-expressions-0.21.1.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/sqlbrite-0.6.2.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/sqlbrite-0.6.2.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/sqlcipher.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/libs/sqlcipher.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/transforms/mergeJavaRes/debug/jars/2/3/main.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/transforms/mergeJavaRes/debug/jars/2/3/main.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/transforms/mergeJavaRes/release/jars/2/3/main.jar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/transforms/mergeJavaRes/release/jars/2/3/main.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/outputs/aar/dJISDKLIB-debug.aar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/outputs/aar/dJISDKLIB-debug.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/outputs/aar/dJISDKLIB-release.aar" afterPath="$PROJECT_DIR$/dJISDKLIB/build/outputs/aar/dJISDKLIB-release.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.gitignore" afterPath="$PROJECT_DIR$/app/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proguard-rules.pro" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/dji/FPVDemo/ApplicationTest.java" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/dji/FPVDemo/ApplicationTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/dji/FPVDemo/FPVDemoApplication.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/dji/FPVDemo/FPVDemoApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/dji/FPVDemo/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/dji/FPVDemo/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/selector_back_button.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/selector_back_button.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/generated/source/r/androidTest/debug/dji/midware/test/R.java" afterPath="$PROJECT_DIR$/dJISDKLIB/build/generated/source/r/androidTest/debug/dji/midware/test/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/generated/source/r/debug/dji/midware/R.java" afterPath="$PROJECT_DIR$/dJISDKLIB/build/generated/source/r/debug/dji/midware/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/generated/source/r/release/dji/midware/R.java" afterPath="$PROJECT_DIR$/dJISDKLIB/build/generated/source/r/release/dji/midware/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/blame/res/androidTest/debug/multi/values-zh-rCN.json" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/blame/res/androidTest/debug/multi/values-zh-rCN.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/blame/res/androidTest/debug/multi/values.json" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/blame/res/androidTest/debug/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/blame/res/androidTest/debug/single/anim.json" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/blame/res/androidTest/debug/single/anim.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/blame/res/androidTest/debug/single/drawable.json" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/blame/res/androidTest/debug/single/drawable.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/blame/res/androidTest/debug/single/layout.json" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/blame/res/androidTest/debug/single/layout.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/blame/res/androidTest/debug/single/raw.json" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/blame/res/androidTest/debug/single/raw.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/blame/res/androidTest/debug/single/xml.json" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/blame/res/androidTest/debug/single/xml.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/R.txt" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/aapt/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_hold.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_hold.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_hyperspace_in.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_hyperspace_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_hyperspace_out.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_hyperspace_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_other.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_other.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_left_in.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_left_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_left_out.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_left_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_right_in.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_right_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_right_out.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_right_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_up_in.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_up_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_up_out.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_push_up_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_zoom_enter.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_zoom_enter.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_zoom_enter_back.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_zoom_enter_back.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_zoom_exit.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_zoom_exit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_zoom_exit_back.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/anim/core_zoom_exit_back.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/layout/log_dialog_view.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/layout/log_dialog_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/raw/flyc_param_infos" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/raw/flyc_param_infos" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/raw/gimbal_param_infos" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/raw/gimbal_param_infos" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/xml/accessory_filter.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/debug/res/xml/accessory_filter.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/R.txt" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/aapt/AndroidManifest.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/aapt/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_hold.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_hold.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_hyperspace_in.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_hyperspace_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_hyperspace_out.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_hyperspace_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_other.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_other.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_push_left_in.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_push_left_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_push_left_out.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_push_left_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_push_right_in.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_push_right_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_push_right_out.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_push_right_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_push_up_in.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_push_up_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_push_up_out.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_push_up_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_zoom_enter.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_zoom_enter.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_zoom_enter_back.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_zoom_enter_back.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_zoom_exit.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_zoom_exit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_zoom_exit_back.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/anim/core_zoom_exit_back.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/layout/log_dialog_view.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/layout/log_dialog_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/raw/flyc_param_infos" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/raw/flyc_param_infos" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/raw/gimbal_param_infos" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/raw/gimbal_param_infos" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/xml/accessory_filter.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/bundles/release/res/xml/accessory_filter.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeDebugAndroidTestShaders/merger.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeDebugAndroidTestShaders/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeReleaseAssets/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeReleaseJniLibFolders/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeReleaseShaders/merger.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/mergeReleaseShaders/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/packageDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/packageReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/incremental/packageReleaseResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_hold.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_hold.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_hyperspace_in.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_hyperspace_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_hyperspace_out.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_hyperspace_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_other.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_other.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_left_in.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_left_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_left_out.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_left_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_right_in.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_right_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_right_out.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_right_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_up_in.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_up_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_up_out.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_push_up_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_zoom_enter.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_zoom_enter.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_zoom_enter_back.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_zoom_enter_back.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_zoom_exit.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_zoom_exit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_zoom_exit_back.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/anim/core_zoom_exit_back.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/layout/log_dialog_view.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/layout/log_dialog_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/raw/flyc_param_infos" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/raw/flyc_param_infos" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/raw/gimbal_param_infos" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/raw/gimbal_param_infos" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/xml/accessory_filter.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/xml/accessory_filter.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/symbols/androidTest/debug/R.txt" afterPath="$PROJECT_DIR$/dJISDKLIB/build/intermediates/symbols/androidTest/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/dJISDKLIB.iml" afterPath="$PROJECT_DIR$/dJISDKLIB/dJISDKLIB.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_hold.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_hold.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_hyperspace_in.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_hyperspace_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_hyperspace_out.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_hyperspace_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_other.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_other.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_push_left_in.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_push_left_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_push_left_out.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_push_left_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_push_right_in.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_push_right_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_push_right_out.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_push_right_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_push_up_in.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_push_up_in.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_push_up_out.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_push_up_out.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_zoom_enter.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_zoom_enter.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_zoom_enter_back.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_zoom_enter_back.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_zoom_exit.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_zoom_exit.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_zoom_exit_back.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/anim/core_zoom_exit_back.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/layout/log_dialog_view.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/layout/log_dialog_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/raw/flyc_param_infos" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/raw/flyc_param_infos" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/raw/gimbal_param_infos" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/raw/gimbal_param_infos" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dJISDKLIB/src/main/res/xml/accessory_filter.xml" afterPath="$PROJECT_DIR$/dJISDKLIB/src/main/res/xml/accessory_filter.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle.properties" afterPath="$PROJECT_DIR$/gradle.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew.bat" afterPath="$PROJECT_DIR$/gradlew.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
+    </list>
     <ignored path="FPVDemo.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,29 +227,33 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
               <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#303#304#0" expanded="false" />
+                <element signature="e#343#344#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
+            <state relative-caret-position="748">
               <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-manifest">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ConnectionActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dji/FPVDemo/ConnectionActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="89" column="60" selection-start-line="89" selection-start-column="60" selection-end-line="89" selection-end-column="60" />
+            <state relative-caret-position="221">
+              <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -72,27 +261,27 @@
       </file>
       <file leaf-file-name="activity_connection.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_connection.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="867">
               <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
               <folding />
             </state>
           </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
+            <state relative-caret-position="1734">
               <caret line="102" column="39" selection-start-line="102" selection-start-column="38" selection-end-line="102" selection-end-column="39" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
           </provider>
         </entry>
       </file>
@@ -101,7 +290,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="765">
               <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#4646#4647#0" expanded="false" />
+                <element signature="e#4690#4691#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,12 +304,21 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#2205#2206#0" expanded="false" />
+                <element signature="e#2236#2237#0" expanded="false" />
+                <element signature="e#3788#3789#0" expanded="false" />
+                <element signature="e#3885#3886#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -2248,6 +2450,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="C:\Users\jku3\AndroidStudioProjects\FPVDemo" value="5993555149796" />
         <entry key="C:\Users\jku3\Downloads\Android-FPVDemo-master\Android-FPVDemo-master\FPVDemo" value="5992704398751" />
       </map>
     </option>
@@ -2726,7 +2929,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2737,16 +2939,18 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AndroidStudioProjects/Android-FPVDemo-master/Android-FPVDemo-master/FPVDemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="device.picker.selection" value="Pixel_API_23" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="2.1.0" />
   </component>
   <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -3010,15 +3214,14 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33522084" sideWeight="0.49506173" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33522084" sideWeight="0.49012345" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33522084" sideWeight="0.50493824" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33522084" sideWeight="0.50987655" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3028,14 +3231,15 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -3059,7 +3263,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#303#304#0" expanded="false" />
+            <element signature="e#343#344#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3080,32 +3288,36 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_connection.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="867">
           <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2142">
-          <caret line="126" column="17" selection-start-line="126" selection-start-column="17" selection-end-line="126" selection-end-column="17" />
+        <state relative-caret-position="1734">
+          <caret line="102" column="39" selection-start-line="102" selection-start-column="38" selection-end-line="102" selection-end-column="39" />
           <folding />
         </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dji/FPVDemo/FPVDemoApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4646#4647#0" expanded="false" />
+            <element signature="e#4690#4691#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3113,7 +3325,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2205#2206#0" expanded="false" />
+            <element signature="e#2236#2237#0" expanded="false" />
+            <element signature="e#3788#3789#0" expanded="false" />
+            <element signature="e#3885#3886#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3121,7 +3339,163 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#303#304#0" expanded="false" />
+            <element signature="e#343#344#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dji/FPVDemo/ConnectionActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="89" column="60" selection-start-line="89" selection-start-column="60" selection-end-line="89" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_connection.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1734">
+          <caret line="102" column="39" selection-start-line="102" selection-start-column="38" selection-end-line="102" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dji/FPVDemo/FPVDemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4646#4647#0" expanded="false" />
+            <element signature="e#4690#4691#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dji/FPVDemo/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2205#2206#0" expanded="false" />
+            <element signature="e#2236#2237#0" expanded="false" />
+            <element signature="e#3788#3789#0" expanded="false" />
+            <element signature="e#3885#3886#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/dji/FPVDemo/ApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#303#304#0" expanded="false" />
+            <element signature="e#343#344#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dji/FPVDemo/ConnectionActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="89" column="60" selection-start-line="89" selection-start-column="60" selection-end-line="89" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_connection.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="126" column="17" selection-start-line="126" selection-start-column="17" selection-end-line="126" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dji/FPVDemo/FPVDemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4646#4647#0" expanded="false" />
+            <element signature="e#4690#4691#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dji/FPVDemo/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2205#2206#0" expanded="false" />
+            <element signature="e#2236#2237#0" expanded="false" />
+            <element signature="e#3788#3789#0" expanded="false" />
+            <element signature="e#3885#3886#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/dji/FPVDemo/ApplicationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#303#304#0" expanded="false" />
+            <element signature="e#343#344#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3137,7 +3511,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="74" column="0" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4646#4647#0" expanded="false" />
+            <element signature="e#4690#4691#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3145,7 +3523,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
           <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2205#2206#0" expanded="false" />
+            <element signature="e#2236#2237#0" expanded="false" />
+            <element signature="e#3788#3789#0" expanded="false" />
+            <element signature="e#3885#3886#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3153,7 +3537,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#303#304#0" expanded="false" />
+            <element signature="e#343#344#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3161,7 +3549,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#2205#2206#0" expanded="false" />
+            <element signature="e#2236#2237#0" expanded="false" />
+            <element signature="e#3788#3789#0" expanded="false" />
+            <element signature="e#3885#3886#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3169,47 +3563,51 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#4646#4647#0" expanded="false" />
+            <element signature="e#4690#4691#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_connection.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="867">
           <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
+        <state relative-caret-position="1734">
           <caret line="102" column="39" selection-start-line="102" selection-start-column="38" selection-end-line="102" selection-end-column="39" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
+      <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
+        <state relative-caret-position="748">
           <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
           <folding />
         </state>
       </provider>
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/dji/FPVDemo/ConnectionActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="89" column="60" selection-start-line="89" selection-start-column="60" selection-end-line="89" selection-end-column="60" />
+        <state relative-caret-position="221">
+          <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
           <folding />
         </state>
       </provider>
